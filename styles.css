@@ -1,0 +1,52 @@
+body {
+    background-color: gainsboro;
+    align-items: center;
+    margin: 300px;
+}
+
+.flexbox-container {
+    align-items: center;
+    background-color: white;
+    padding: 5px;
+}
+
+.flexbox-item-1 {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.flexbox-item-2 {
+    background-color: red;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.flexbox-item-3 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.flexbox-item-4 {
+    background-color: gray;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color: white;
+    font-size: 35px;
+}
